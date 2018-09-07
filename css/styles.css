@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 60 px;
+}
+h2,h3 {
+font-style: itallic;
+text-align: center;
+color: red;
+}
+p {
+  color:
+}
+body {
+  background-color: skyblue;
+}
+header{
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+ul {line-height: 40px;
+}
+ <div class="column">
