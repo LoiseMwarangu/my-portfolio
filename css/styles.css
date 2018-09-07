@@ -41,4 +41,7 @@ ul {line-height: 40px;
     }
     .test-box {
         border: 2px solid red;
+        padding: 8px;
+        margin: 20px;
+        background-color: pink;
       }
