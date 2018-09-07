@@ -23,4 +23,15 @@ header{
 }
 ul {line-height: 40px;
 }
- <div class="column">
+.column p a {
+  font-weight: bold;
+}
+.color p a {
+  font-style: italic;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
