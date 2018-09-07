@@ -10,6 +10,11 @@ font-style: itallic;
 text-align: center;
 color: red;
 }
+li {
+  font-weight: bold;
+  text-align: justify;
+  color: red;
+}
 p {
   color:
 }
@@ -34,4 +39,6 @@ ul {line-height: 40px;
         background-color: black;
         color: white;
     }
-}
+    .test-box {
+        border: 2px solid red;
+      }
