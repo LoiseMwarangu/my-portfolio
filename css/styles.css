@@ -6,10 +6,10 @@ h1 {
   font-size: 60px;
 }
 h2,h3 {
-font-style: itallic;
-text-align: center;
-color: red;
-font-size: 40px;
+  font-style: itallic;
+  text-align: center;
+  color: red;
+  font-size: 40px;
 }
 li {
   font-weight: bold;
@@ -48,11 +48,12 @@ ul , ol{
   color: white;
 }
 .side-bar {
-  width:800px;
-  background-color:lightskyblue;
-  color: gray;
+   width:800px;
+   background-color:lightskyblue;
+   color: gray;
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
-  background-color:yellow;
-  color: black
-}
+    body {
+        background-color: pink;
+        color: purple;
+    }
