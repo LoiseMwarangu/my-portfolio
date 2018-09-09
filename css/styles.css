@@ -13,17 +13,25 @@ font-size: 40px;
 }
 li {
   font-weight: bold;
-  font-size: 80px)
+  font-size: 20px;
   text-align: justify;
-  color: orangeRed;
+  color: white;
+}
+.name{
+  font-size: 30px;
+  background-color:white;
+  color:Darkcyan
 }
 img {
   height: 300px;
-  width: 500px;
+  width: 500px
+  float:left;
 }
 p {
-  font-style: oblique;
+  font-style:normal;
   font-size: 20px;
+  font-family: fantasy;
+  color:black;
 }
 body {
   background-color: skyblue;
@@ -31,17 +39,18 @@ body {
   margin: 20px;
   padding: 30px
 }
-header{
   color: red;
   text-align: center;
   font-weight: bold;
 }
-ul {line-height: 40px;
+ul , ol{
+  line-height: 60px;
+  color: white;
 }
 .side-bar {
   width:800px;
-  background-color:white;
-  color: skyblue;
+  background-color:lightskyblue;
+  color: gray;
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
   background-color:yellow;
