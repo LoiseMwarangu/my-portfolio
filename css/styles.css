@@ -17,12 +17,17 @@ li {
   text-align: justify;
   color: red;
 }
+img {
+  float: none;
+}
 p {
   font-style: oblique;
 }
 body {
   background-color: skyblue;
-  border: 10px solid red;
+  border: 5px solid red;
+  margin: 20px;
+  padding: 30px
 }
 header{
   color: red;
@@ -48,7 +53,7 @@ ul {line-height: 40px;
       padding: 10px;
       text-align: center;
     }
-    .test-box {
+     {side-bar
         border: 2px solid red;
         padding: 8px;
         margin: 20px;
