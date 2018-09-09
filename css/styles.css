@@ -15,14 +15,15 @@ li {
   font-weight: bold;
   font-size: 80px)
   text-align: justify;
-  color: red;
+  color: orangeRed;
 }
 img {
-  height: 800px;
-  width: 1300px;
+  height: 300px;
+  width: 500px;
 }
 p {
   font-style: oblique;
+  font-size: 20px;
 }
 body {
   background-color: skyblue;
@@ -37,26 +38,12 @@ header{
 }
 ul {line-height: 40px;
 }
-.column p a {
-  font-weight: bold;
-}
-.color p a {
-  font-style: italic;
+.side-bar {
+  width:800px;
+  background-color:white;
+  color: skyblue;
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
-    body {
-        background-color: black;
-        color: white;
-
-    }
-    nav>ul>li {
-      display: inline-block;
-      padding: 10px;
-      text-align: center;
-    }
-     {side-bar
-        border: 2px solid red;
-        padding: 8px;
-        margin: 20px;
-        background-color: pink;
-      }
+  background-color:yellow;
+  color: black
+}
