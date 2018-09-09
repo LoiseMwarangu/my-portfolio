@@ -3,7 +3,7 @@ h1 {
   text-align: center;
   font-style: oblique;
   font-weight: bold;
-  font-size: 80 px;
+  font-size: 60px;
 }
 h2,h3 {
 font-style: itallic;
@@ -18,7 +18,8 @@ li {
   color: red;
 }
 img {
-  float: none;
+  height: 800px;
+  width: 1300px;
 }
 p {
   font-style: oblique;
